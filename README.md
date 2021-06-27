@@ -1,6 +1,12 @@
-<img src="logo.png" alt="logo" width="250"/>
+<img src="banner.jpg" alt="logo" width="100%"/>
+
+
 
 # Fragment Lamp
+
+<img src="logo.png" alt="logo" width="250" />
+
+___
 
 Graduation project for the University of Caxias do Sul
 
